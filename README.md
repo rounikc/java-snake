@@ -1,7 +1,9 @@
 A JAVA based snake game.
 Your favourite nokia era snake game, written completely on JAVA.
-Download files, and run the GamePanel.java file to start the game.
+Download files, and run the SnakeGame.java file to start the game.
 
 
 
 Very basic game, to restart game, re-launch application to start fresh
+![Screenshot 2024-04-29 224405](https://github.com/rounikc/java-snake/assets/121034725/63be0908-3859-4672-9a97-1bd64e85a103)
+![Screenshot 2024-04-29 224411](https://github.com/rounikc/java-snake/assets/121034725/947895ca-3a07-49f8-880b-307971dc28e4)
