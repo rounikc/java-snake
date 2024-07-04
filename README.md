@@ -1,3 +1,4 @@
+# Snake Game with Java
 A JAVA based snake game.
 Your favourite nokia era snake game, written completely on JAVA.
 Download files, and run the SnakeGame.java file to start the game.
